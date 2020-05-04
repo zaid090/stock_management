@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "248364579260",
+    "firebase_url": "https://stock-manager-f1729.firebaseio.com",
+    "project_id": "stock-manager-f1729",
+    "storage_bucket": "stock-manager-f1729.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248364579260:android:3937894ce615f32c4a93b9",
+        "android_client_info": {
+          "package_name": "myc.stock_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248364579260-2vhojf7tgq60lr3cpfq2qfkr44huc447.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDghjuiRnfpPZUc9yQsdo9DsG2fTY-fr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248364579260-2vhojf7tgq60lr3cpfq2qfkr44huc447.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
